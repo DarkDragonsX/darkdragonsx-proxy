@@ -15,13 +15,17 @@
 
 ### Step 2: Run the Tool
 1. Open your terminal and run the tool with the following command:
+
+   ```bash
+   git clone https://github.com/DarkDragonsX/darkdragonsx-proxy
+   ```
    ```bash
    python3 darkdragonsx-proxy.py
 
-2. The tool will prompt you to enter the path to your proxy file. Enter the correct path.
+3. The tool will prompt you to enter the path to your proxy file. Enter the correct path.
 
 
-3. Next, it will ask you to input the target website URL. Ensure the URL is correct (e.g., https://www.instagram.com/).
+4. Next, it will ask you to input the target website URL. Ensure the URL is correct (e.g., https://www.instagram.com/).
 
 
 
