@@ -1,7 +1,6 @@
 # darkdragonsx-proxy
 لأن السرعة والقوة لا تأتي صدفة — darkdragonsx-proxy، أداة البروكسي التي تتفوق على الجميع.
 
-تمام، إليك التصميم النهائي الذي يمكنك وضعه على ملف README.md بشكل أنيق ومنظم:
 
 # DarkDragonsX | Proxy Checker Tool
 
