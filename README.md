@@ -16,7 +16,7 @@
 ### Step 2: Run the Tool
 1. Open your terminal and run the tool with the following command:
    ```bash
-   python3 proxy_checker.py
+   python3 darkdragonsx-proxy.py
 
 2. The tool will prompt you to enter the path to your proxy file. Enter the correct path.
 
@@ -85,11 +85,11 @@ Contact Me
 
 Name: Mohamed Lamine
 
-Facebook: darkdragonsx
+Facebook: https://www.facebook.com/DarkDragonsX
 
-Instagram: @_darkdragonsx
+Instagram: https://www.instagram.com/darkdragonsx
 
-TikTok : @darkdragonsx
+TikTok : @darkdragonsx_
 
 Facebook Group:https://facebook.com/groups/998834482214002/
 
