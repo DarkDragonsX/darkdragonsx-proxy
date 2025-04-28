@@ -66,17 +66,13 @@ requests library: To install, run the following command:
  ```bash
 pip install requests
 ```
-```bash
-rich library: To install, use:
-```
+rieh library: To install, use:
 ```bash
 pip install rich
 ```
-```bash
 
 Expected Results
 
-```
 
 After the check is complete, you will see a summary of the working and failed proxies in a table format, and the working proxies will be saved in the txt.proxy-darkdragonsx file.
 
@@ -93,7 +89,7 @@ Facebook: darkdragonsx
 
 Instagram: @_darkdragonsx
 
-Twitter: @darkdragonsx
+TikTok : @darkdragonsx
 
-Facebook Group: DarkDragonsX Group
+Facebook Group:https://facebook.com/groups/998834482214002/
 
